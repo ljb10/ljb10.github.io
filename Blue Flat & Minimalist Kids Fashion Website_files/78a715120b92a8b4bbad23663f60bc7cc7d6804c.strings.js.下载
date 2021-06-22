@@ -1,0 +1,4 @@
+window["cmsg"] = window["cmsg"] || {};
+window["cmsg"]["strings"] = window["cmsg"]["strings"] || {};
+window["cmsg"]["strings"]["zh-CN"] = window["cmsg"]["strings"]["zh-CN"] || [];
+window["cmsg"]["strings"]["zh-CN"].push({"qfghlA":"Google","ETcy/w":"未找到视频","yLWiZA":"Ctrl","60VG2w":"关闭","GC3KwA":"Facebook","XoXDGA":"请重试。","1jmEqg":"微信支付","Yi93JQ":"切换静音模式","+olYfw":"源文","IbileA":"显示打印出血线","E1H7vQ":"切换至全屏模式 (f)","KObNzg":"切换全屏模式","QCLTSw":"我们遇到一个问题。","j6lVrg":"未命名的设计","xXWXkw":"无法显示图像","/OrXPQ":"菜单","su+r1w":"搜索栏","2I+oCQ":"正在加载","zSuUjw":"切换至静音模式 (m)","GnEy7g":"第 {0} 页","cSn0vw":"播放","5vUp+w":"暂停","ph76TQ":"未找到图像","uid63A":"显示边距","3wCX+Q":"支付宝","LW7DHQ":"解除"});
